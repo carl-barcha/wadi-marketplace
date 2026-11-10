@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 260" role="img" aria-label="Bulk drum">
+  <ellipse cx="110" cy="246" rx="78" ry="9" fill="#000" opacity=".12"/>
+  <path d="M38 40c0-12 32-20 72-20s72 8 72 20v180c0 12-32 20-72 20s-72-8-72-20z" fill="#1f5fa8"/>
+  <path d="M38 40c0-12 32-20 72-20s72 8 72 20v180c0 12-32 20-72 20s-72-8-72-20z" fill="url(#g)"/>
+  <ellipse cx="110" cy="40" rx="72" ry="20" fill="#2f74c4"/>
+  <ellipse cx="110" cy="40" rx="60" ry="14" fill="#245fa0"/>
+  <circle cx="82" cy="38" r="7" fill="#d9e6f5"/>
+  <circle cx="140" cy="40" r="5" fill="#d9e6f5"/>
+  <path d="M38 96c0 10 32 18 72 18s72-8 72-18M38 166c0 10 32 18 72 18s72-8 72-18" fill="none" stroke="#174a85" stroke-width="5"/>
+  <rect x="66" y="118" width="88" height="44" rx="6" fill="#fff"/>
+  <path d="M84 128c6 6 6 14 0 22M96 126c9 8 9 18 0 26" fill="none" stroke="#5f9e3e" stroke-width="5" stroke-linecap="round"/>
+  <rect x="106" y="134" width="38" height="5" rx="2" fill="#0b6738"/>
+  <rect x="106" y="144" width="28" height="5" rx="2" fill="#9db7a6"/>
+  <defs>
+    <linearGradient id="g" x1="0" x2="1">
+      <stop offset="0" stop-color="#fff" stop-opacity=".18"/>
+      <stop offset=".35" stop-color="#fff" stop-opacity="0"/>
+      <stop offset=".8" stop-color="#000" stop-opacity=".12"/>
+    </linearGradient>
+  </defs>
+</svg>
